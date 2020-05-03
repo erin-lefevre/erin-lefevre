@@ -1,0 +1,10 @@
+.portfolio-thumbnail {
+	background-color: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: none;
+}
+
+.portfolio-thumbnail img	{
+	height: 250px;
+}

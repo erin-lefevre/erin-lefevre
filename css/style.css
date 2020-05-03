@@ -1,0 +1,138 @@
+
+/*Navigation*/
+.navbar-default {
+  background-color: #d6cfcb;
+  border-radius: 0;
+  background-image: url('../assets/thumbnails/Longform_Graphic_thumb.png1');
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 25px;
+}
+
+/* Navbar title */
+.navbar-default .navbar-brand {
+  color: #000000;
+  font-size:20px;
+  font-weight: lighter;
+}
+
+/* Navbar hover effects */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #ffffff;
+}
+
+/* Navbar links */
+.navbar-default .navbar-nav > li > a {
+  color: #000000;
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+/* Navbar collapsed styles */
+.navbar-header .navbar-toggle {
+  color: #fff;
+}
+
+.navbar-header .navbar-toggle:hover,
+.navbar-header .navbar-toggle:focus {
+  background-color: #ffffff;
+  color: #ffffff;
+}
+
+/*** Portfolio pieces ***/
+.portfolio-thumbnail {
+  background-color: none;
+  border-color: none;
+  border-width: 0px;
+  
+}
+
+.portfolio-thumbnail:hover {
+  border-color: #000000;
+}
+
+.portfolio-thumbnail img	{
+	height: 250px;
+}
+
+.portfolio-title {
+  font-weight: bold;
+}
+
+.portfolio-description {
+}
+
+.portfolio-image {
+}
+
+#about-world {
+  max-height: 200px;
+}
+
+.resume h3 {
+  font-weight: bold;
+}
+
+hr {
+  border-color: white;
+  border-width: 2px;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  color: #000000;
+}
+
+a:hover {
+  color: #ebd122;
+  
+  
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  padding-top: 0px;
+  font-family: 'Georgia', serif;
+  background-color: #ffffff;
+  color: #242424;
+  background: url('../assets/thumbnails/Longform_Graphic_thumb.png1');
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f0efef;
+}
+
+li {
+  float: left;
+  border-right: 1px solid #fff;
+}
+
+
+li a {
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #dedede;
+  color: #000000;
+  text-decoration: none;
+}
+
